@@ -21,7 +21,7 @@ Estas son algunas preguntas que se pretenden contestar dentro del estudio, aunqu
 
 
 A la hora de obtener datos, han sido necesarias varias herramientas de scraping que se detallan dentro del documento. Todos los datos han sido recopilados, salvo los datos relativos al número de contagios y fallecimientos provocados por la COVID-19 que han sido descargados directamente desde la página del Ministerio de Sanidad y Our World in Data.
-Los datos han sido procesados en varios Notebook y puestos en común dentro del principal, que adjunto con la memoria. Sin embargo, se han empleado documentos a modo de borrador que no serán incluidos.
+Los datos han sido procesados en varios Notebook y puestos en común dentro del principal, que se adjuntan con la memoria. Sin embargo, se han empleado documentos a modo de borrador que no serán incluidos.
 
 Las conclusiones sacadas del análisis sugieren la idea de grupos políticos más veteranos, en los que las redes sociales aún no son un arma política de comunicación como puedan ser otros, y los grupos políticos jóvenes, con una fuerte presencia, tanto de seguidores como de diputados en activo.
 
@@ -30,5 +30,4 @@ Vemos en las gráficas que los dos partidos que más hacen uso de la plataforma 
 Como conclusiones destacables, no vemos un cambio significativo en la comunicación de los grupos que han tenido un papel clave en la pandemia cuando su papel ha pasado de activo a pasivo con el final del Estado de Alarma (PSOE, UP, PP), sin embargo, si vemos unos patrones comunes en el uso de Twitter conforme la pandemia avanzaba. Posiblemente, ser partidos de gobierno con responsabilidades políticas condiciona la comunicación, y por ello las diferencias tan grandes a partidos como Vox.
 La segunda conclusión, comentada anteriormente, es la gran diferencia entre partidos convencionales y nuevos partidos, o partidos de la neopolítica, donde queda patente una forma de comunicación radicalmente diferente entre ambos grupos.
 
-Se continuarán concluyendo resultados e hipótesis conforme vaya avanzándose el desarrollo de la investigación y sus análisis.
-
+Se seguirán agregando conclusiones, resultados e hipótesis conforme vaya avanzándose el desarrollo de la investigación y sus análisis.
